@@ -7,3 +7,7 @@ This repository contains the C++ source code for two popular object-oriented imp
 3. `twoStackImplementation.cpp`: This file contains the implementation of a queue using two stacks.
 
 Each implementation follows an object-oriented programming style, allowing for modularity, encapsulation, and code reusability. The files provide a comprehensive understanding of how queues can be implemented in C++ using different underlying data structures.
+
+<!-- Authors -->
+## Contributors
+<a href="https://github.com/Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation/contributors"><img src="https://contrib.rocks/image?repo=Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation"></a>
